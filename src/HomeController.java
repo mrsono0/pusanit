@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * Handles requests for the application home page.
+ * Handles requests for the application home page. 손정현 브렌치 테스트
  */
 @Controller
 public class HomeController {
